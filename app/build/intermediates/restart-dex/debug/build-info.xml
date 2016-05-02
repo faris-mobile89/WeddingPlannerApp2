@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="400dpi"
+    format="7"
+    timestamp="1462152730789232000" >
+
+    <task
+        name="javac"
+        duration="8741" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="5536" />
+    <task
+        name="verifier"
+        duration="597" />
+
+    <artifact
+        location="/Users/Faris/Downloads/WeddingPlannerApp-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1462152730789232000" >
+        <artifact
+            location="/Users/Faris/Downloads/WeddingPlannerApp-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

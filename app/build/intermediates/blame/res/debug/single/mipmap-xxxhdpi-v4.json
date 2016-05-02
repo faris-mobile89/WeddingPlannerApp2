@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Faris/Downloads/WeddingPlannerApp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/Faris/Downloads/WeddingPlannerApp-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Faris/Downloads/WeddingPlannerApp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/splachbb.jpg",
+        "source": "/Users/Faris/Downloads/WeddingPlannerApp-master/app/src/main/res/mipmap-xxxhdpi/splachbb.jpg"
+    },
+    {
+        "merged": "/Users/Faris/Downloads/WeddingPlannerApp-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/logo.png",
+        "source": "/Users/Faris/Downloads/WeddingPlannerApp-master/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    }
+]
